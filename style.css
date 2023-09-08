@@ -217,7 +217,7 @@ padding-top: 15px;
 }
 /*services start*/
 
-Services-st h3{
+.Services-st h3{
  
     font-weight: 700;
     font-size: 26.3424px;
@@ -247,9 +247,9 @@ Services-st h3{
 }
 .ser-row {
     display: flex;
-    gap: 71px;
+    gap: 115px;
     flex-wrap: wrap;
-    width: 79%;
+    width: 100%;
     justify-content: center;
     align-items: center;
 }
